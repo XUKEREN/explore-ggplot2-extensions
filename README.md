@@ -1,5 +1,6 @@
 # explore-ggplot2-extensions
 this is a repo where I play with ggplot2 extensions
+- [bbplot](#bbplot)
 -   [ggtech](#ggtech)
 -   [ggQC](#ggqc)
 -   [ggalt](#ggalt)
@@ -11,6 +12,8 @@ this is a repo where I play with ggplot2 extensions
 -   [ggsci](#ggsci)
 -   [ggalluvial](#ggalluvial)
 -   [survminer](#survminer)
+
+# [bbplot](https://github.com/XUKEREN/bbplot)
 
 ggtech
 ======
